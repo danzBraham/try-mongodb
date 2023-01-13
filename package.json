@@ -1,0 +1,23 @@
+{
+  "name": "try-mongodb",
+  "version": "1.0.0",
+  "description": "Trying MongoDB",
+  "type": "module",
+  "exports": "./app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danzBraham/try-mongodb.git"
+  },
+  "author": "Zidan Abraham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danzBraham/try-mongodb/issues"
+  },
+  "homepage": "https://github.com/danzBraham/try-mongodb#readme",
+  "dependencies": {
+    "mongodb": "^4.13.0"
+  }
+}
